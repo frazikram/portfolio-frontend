@@ -1,5 +1,6 @@
 import React from "react";
-
-export const About = () => {
+import "./About.scss";
+const About = () => {
   return <div>About</div>;
 };
+export default About;
